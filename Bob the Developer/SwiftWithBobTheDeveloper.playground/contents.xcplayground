@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Lesson01_Variable'/>
+        <page name='Lesson02_Conditional Statement'/>
+        <page name='Lesson03_Array and Dictionary'/>
+        <page name='Lesson04_For Loop'/>
+        <page name='Lesson05_Switch Statement'/>
+        <page name='Lesson06_Functions'/>
+        <page name='Lesson07_Closure'/>
+        <page name='Lesson08_Enum'/>
+        <page name='Lesson09_Object Oriented Programming'/>
+        <page name='Lesson10_Inherritance'/>
+        <page name='Lesson11_Initialisation'/>
+        <page name='Lesson12_Optionals'/>
+        <page name='Lesson13_Subscripts'/>
+        <page name='Lesson14_Extention'/>
+        <page name='Lesson15_Generic'/>
+        <page name='Lesson16_Error Handling'/>
+        <page name='Lesson17_Type Casting'/>
+        <page name='Lesson18_Struct vs Class'/>
+        <page name='Lesson19_Guard Statements'/>
+        <page name='Lesson20_Styling Guide'/>
+    </pages>
+</playground>
