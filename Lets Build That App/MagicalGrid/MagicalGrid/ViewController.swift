@@ -14,9 +14,10 @@ class ViewController: UIViewController {
     super.viewDidLoad()
     
     let numViewPerRow = 15
+    let numViewPerColum = 30
     let width = view.frame.width / CGFloat(numViewPerRow)
     
-    for j in 0...30 {
+    for j in 0...numViewPerColum {
       for i in 0...numViewPerRow {
         let cellView = UIView()
         cellView.backgroundColor = randomColor()
